@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Melevio</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="playlist_btn">Playlist</string>
+    <string name="favlist_btn">Favorites</string>
+    <string name="totalSong">Total Songs</string>
+    <string name="song_name">Song name</string>
+    <string name="backButton">Back Button</string>
+    <string name="start_tv">00.00</string>
+    <string name="end_tv">Loading..</string>
+    <string name="repeat">Repeat</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="timer">Timer</string>
+    <string name="share">Share</string>
+
+    <string name="previous">Share</string>
+    <string name="play">Share</string>
+    <string name="pause">Share</string>
+    <string name="next">Share</string>
+
+    <string name="add_playlist">Add</string>
+</resources>
