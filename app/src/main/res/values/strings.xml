@@ -19,4 +19,15 @@
     <string name="next">Share</string>
 
     <string name="add_playlist">Add</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="app_ic">Icon</string>
+    <string name="welcome">Welcome To, \nMelovio</string>
+
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
 </resources>
