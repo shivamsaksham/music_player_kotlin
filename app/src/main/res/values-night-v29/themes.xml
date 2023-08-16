@@ -1,15 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+
     <style name="Base.Theme.Melevio" parent="Theme.Material3.DayNight">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
 
-    </style>
-
-    <style name="Theme.Melevio" parent="Base.Theme.Melevio" />
-
-    <style name="splash_screen" parent="Theme.Material3.Light.NoActionBar">
-        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:forceDarkAllowed">false</item>
     </style>
 
     <attr name="themeColor" format="color"/>
@@ -150,4 +146,5 @@
         <item name="dialogBtnBackground">@color/white</item>
         <item name="dialogTextColor">@color/black</item>
     </style>
+
 </resources>

@@ -25,6 +25,7 @@
             android:src="@drawable/back_ic"
             app:tint="@color/white"
             android:contentDescription="@string/backButton"
+            android:padding="5dp"
             />
 
         <TextView
